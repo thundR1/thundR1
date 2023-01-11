@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Amin</h1>
 <h3 align="center">Computer Engineering Student Who Loves To Learn</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c0a01c5851d9a5c896f10cc5ba8bb26a8644e6c2b48728f8c42cf69da3e610c8/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f64366162633365326334383361323962653439356365366530386332383534302f74756d626c725f6d6b71746e704459474831726e776f32766f315f3530302e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thundr1&label=Profile%20views&color=0e75b6&style=flat" alt="thundr1" /> </p>
 
