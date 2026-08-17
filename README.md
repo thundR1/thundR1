@@ -19,4 +19,4 @@
 # Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,cs,py,rust,bash,react,nextjs,dotnet,nodejs,express,postgres,git,github)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thundr1&" alt="thundr1" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thundr1&" alt="thundr1" /></p> -->
