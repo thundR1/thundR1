@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thundr1&label=Profile%20views&color=0e75b6&style=flat" alt="thundr1" /> </p>
 
-- 📫 If you'd like to reach out, feel free to [Email me](youssef.amin5@proton.me)
+- 📫 If you'd like to reach out, feel free to [email me](youssef.amin5@proton.me).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
